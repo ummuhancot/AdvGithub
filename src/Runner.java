@@ -23,6 +23,7 @@ public class Runner {
         System.out.println("techpro 4");
 
         System.out.println("*****************");
+
     
         
         //********************************
@@ -30,6 +31,7 @@ public class Runner {
         //-------------
 
         //dev 2 yaptığı değişiklik
+
 
 
 
