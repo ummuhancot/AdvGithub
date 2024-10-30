@@ -24,6 +24,7 @@ public class Runner {
 
         System.out.println("*****************");
 
+        // localde değişiklik
 
 
     }
