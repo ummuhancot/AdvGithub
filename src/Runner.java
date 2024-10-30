@@ -24,6 +24,14 @@ public class Runner {
 
         System.out.println("*****************");
 
+    
+        
+        //********************************
+        String a = "";
+        //-------------
+
+        //dev 2 yaptığı değişiklik
+
 
 
 
