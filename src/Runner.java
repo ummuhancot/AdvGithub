@@ -10,6 +10,9 @@ public class Runner {
         //versiyon 3
         System.out.println("versiyon 3");
 
+        //techpro branch
+        System.out.println("techpro 1");
+
 
     }
 }
